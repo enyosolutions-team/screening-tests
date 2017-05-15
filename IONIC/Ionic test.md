@@ -17,5 +17,8 @@ https://www.behance.net/gallery/51349815/Krystal-Clear-Mobile-app
 
 ## Notes : 
 - You can use Ionic1 or 2, but Ionic 2 is preferred...
+- Colors, fonts are on the page, use them.
+- Sass only, no pure css code.
 - Non working code will automatically result in failure of the test
+- **I HATE code duplication...**
 
