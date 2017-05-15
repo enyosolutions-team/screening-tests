@@ -1,0 +1,21 @@
+Hello,
+
+this is a simple test to assert your coding abilities. Nothing tricky here just pure coding. 
+You'll be asserted on the quality, simplicity of your code. Comments and proper indentation are required.
+
+
+## Task
+
+Build a Ionic mobile app that uses the following template :
+https://www.behance.net/gallery/51349815/Krystal-Clear-Mobile-app
+
+
+1 - Build 3 pages : A login page, a list of items page and a details page.
+2 - Link the list and the details page with an informations from this api endpoint https://jsonplaceholder.typicode.com/photos Use ngResource (Ionic1) or ngx-resource (Ionic2).
+3 - commit your code to github and give us the link to it.
+
+
+## Notes : 
+- You can use Ionic1 or 2, but Ionic 2 is preferred...
+- Non working code will automatically result in failure of the test
+
