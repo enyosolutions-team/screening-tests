@@ -10,9 +10,9 @@ Build a Ionic mobile app that uses the following template :
 https://www.behance.net/gallery/51349815/Krystal-Clear-Mobile-app
 
 
-1 - Build 3 pages : A login page, a list of items page and a details page.
-2 - Link the list and the details page with an informations from this api endpoint https://jsonplaceholder.typicode.com/photos Use ngResource (Ionic1) or ngx-resource (Ionic2).
-3 - commit your code to github and give us the link to it.
+- 1 Build 3 pages : A login page, a list of items page and a details page.
+- 2 Link the list and the details page with an informations from this api endpoint https://jsonplaceholder.typicode.com/photos Use ngResource (Ionic1) or ngx-resource (Ionic2).
+- 3 Commit your code to github and give us the link to it.
 
 
 ## Notes : 
