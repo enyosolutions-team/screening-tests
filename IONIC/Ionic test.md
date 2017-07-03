@@ -10,14 +10,18 @@ Build a Ionic mobile app that uses the following template :
 https://www.behance.net/gallery/51349815/Krystal-Clear-Mobile-app
 
 
-- Build the 3 pages : A login page, a list of items page and a details page.
-- Link the list and the details page with an informations from this api endpoint https://jsonplaceholder.typicode.com/photos Use ngResource (Ionic1) or ngx-resource (Ionic2).
-- Commit your code to **gitlab.com** and give us the link to it.
+- Build the 2 pages : A login page and a list of items page.
+- The facebook connexion must work (create a facebook app for it)
+- Link the list and the details page with information from this api endpoint https://jsonplaceholder.typicode.com/photos Use ngx-resource (Ionic2).
+- Commit your code to **github.com** and give us the link to it.
+- Give us an APK to test it.
 
 
 ## Notes : 
-- You can use Ionic1 or 2, but Ionic 2 is preferred...
-- Colors, fonts are on the page, use them.
+- Use Ionic2.
+- For the card representing the shoes, use a custom component and bind the data using **@input** and **ngModel**
+- Colors codes and fonts are on the page. Use them.
+- For the icons use the native ionic icons
 - Sass only, no pure css code.
 - Non working code will automatically result in failure of the test
 - **I HATE code duplication...**
