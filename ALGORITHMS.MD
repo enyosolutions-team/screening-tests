@@ -29,3 +29,12 @@ Give an algorithm to solve this problem when rectangles are defined by their wid
 Give another algorithm where rectangles are defined by their width, height, and (x, y) coordinates of their centers.
 What are the behaviors of your algorithms for edge cases?
 
+## Validate international phone numbers
+
+Write a function that as input a string S return true if S is an international phone number eg. start with ++ or 00 then has a series of numbers with or without spaces, and no other characters.
+
+
+## upper case ?
+Write a function that determines if a string starts with an upper-case letter A-Z.
+try to be efficient.
+
