@@ -1,13 +1,24 @@
 ## separate numbers
 
-Write a function that take as input an array of numbers and print out and return two arrays, one of even number and another one of odd numbers. Try to make the function cost efficient.
+Write a function that take as input an array of numbers and print out and return two sorted arrays, one of even numbers and another one of odd numbers. sort descending order. Try to make the function cost efficient.
 
+Keep the complexity at O(2n)
 
 ## geo coordinates
 
 Write a function that take as input  two geo cordinates objects A and B ({lat: xxx, lon: xxx})  and a distance D (in km), and return true if the A is within D km of B.
 Ex :
 isInRange(A : coords, B: coords, D: number) : boolean. 
+
+```
+var paris = {lat:48.864716, lon: 2.349014}
+
+var londres = {lat:51.509865, lon:-0.118092}
+
+var moscow = {lat: 38.736946,   lon: -9.142685};
+
+var d = 500
+```
 
 
 ## sort me plz
