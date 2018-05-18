@@ -1,3 +1,6 @@
+https://jsfiddle.net/enyosolutions/74mnx9zw/3/
+
+
 ## separate numbers
 
 Write a function that take as input an array of numbers and print out and return two sorted arrays, one of even numbers and another one of odd numbers. sort descending order. Try to make the function cost efficient.
@@ -23,7 +26,7 @@ var d = 500
 
 ## sort me plz
 
-Write a sort function 
+Write a sort function  to numbers in descending order.
 
 
 ## prime or no prime
