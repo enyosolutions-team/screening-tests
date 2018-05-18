@@ -49,3 +49,19 @@ Write a function that as input a string S return true if S is an international p
 Write a function that determines if a string starts with an upper-case letter A-Z.
 try to be efficient.
 
+
+## Discussion :
+
+How do i build a SaaS (one app with compagnies(team) using the it without having anytihng to with each other.. What are the important considerations in terms of : 
+- security
+- data storage
+- Scaling. 
+- Authentication.
+
+
+## Discussion : 
+
+How do i build an HR recruitment management platform ( post jobs, receive candidates, communication process, interviews, decision.
+- What are the features you'll build
+- What is my data model
+- How do i manage the most tedious part of the process (receiving resume by emails and exchanging with clients) 
