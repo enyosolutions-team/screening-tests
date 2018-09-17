@@ -1,6 +1,6 @@
 ## setting up an architecture.
 
-We have a client that want to build a SaaS to offer a service to help companies manage their recruitment process. A recruitment is the process of finding a new staff member or contractor for a position. Features includes :
+We have a client that want to build a **SaaS** to offer a service to help companies manage their recruitment process. A recruitment is the process of finding a new staff member or contractor for a position. Features includes :
 
 - job listings
 - Candidates management
