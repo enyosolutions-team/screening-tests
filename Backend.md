@@ -2,7 +2,7 @@
 
 We have a client that want to build a **SaaS** to offer a service to help companies manage their recruitment process. A recruitment is the process of finding a new staff member or contractor for a position. Features includes : 
 
-- job listings (insite the app)
+- job listings (inside the app)
 - Mini website for listing job posting.
 - Posting jobs to other platforms.
 - Monitoring performance of postings.
