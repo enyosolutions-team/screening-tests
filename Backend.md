@@ -25,7 +25,9 @@ Write a document detailing the architecture you'd choose to implement this Human
 - How do you manage the clustering of data to manage :
 
 -- authentication
+
 -- data clustering (avoid one client seeing data of another client)
+
 - backup.
 
 
