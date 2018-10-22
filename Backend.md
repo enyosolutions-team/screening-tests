@@ -21,7 +21,9 @@ Write a document detailing the architecture you'd choose to implement this Human
 - Detailed Data-model and relations (class diagram).
 - Softwares list with an explanation (what database, what http server, what solution for search etc). You can also list tools that might be useful for the scaling, backup ping, security etc.
 - Would you do sql or no sql why ?
+
 - How do you manage the clustering of data to manage :
+
 -- authentication
 -- data clustering (avoid one client seeing data of another client)
 - backup.
