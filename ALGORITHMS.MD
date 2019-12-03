@@ -40,8 +40,11 @@ Write a function take into as input  an array and return the position of all the
 ## Determine if two rectangles intersect.
 
 Give an algorithm to solve this problem when rectangles are defined by their width, height, and (x, y) coordinates of their top-left corners.
+
 Give another algorithm where rectangles are defined by their width, height, and (x, y) coordinates of their centers.
 What are the behaviors of your algorithms for edge cases?
+
+If you need a tip ask the examiner.
 
 ## Validate international phone numbers
 
