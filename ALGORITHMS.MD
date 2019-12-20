@@ -5,7 +5,7 @@ https://jsfiddle.net/enyosolutions/74mnx9zw/3/
 
 Write a function that take as input an array of numbers and print out and return two sorted arrays, one of even numbers and another one of odd numbers. sort descending order. Try to make the function cost efficient.
 
-Keep the complexity at O(n)
+> Extras points if you keep the complexity at O(2n)
 
 ## geo coordinates
 
