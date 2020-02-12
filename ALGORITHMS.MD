@@ -7,6 +7,19 @@ Write a function that take as input an array of numbers and print out and return
 
 > Extras points if you keep the complexity at O(2n)
 
+## sort me plz
+
+Write a sort function  to numbers in descending order.
+
+
+## prime or no prime
+
+Write a function that as input a integer N return true if N is a prime number
+
+Write a function take into as input  an array and return the position of all the prime numbers in an array
+
+
+
 ## geo coordinates
 
 Write a function that take as input  two geo cordinates objects A and B ({lat: xxx, lon: xxx})  and a distance D (in km), and return true if the A is within D km of B.
@@ -22,19 +35,6 @@ var moscow = {lat: 38.736946,   lon: -9.142685};
 
 var d = 500
 ```
-
-
-## sort me plz
-
-Write a sort function  to numbers in descending order.
-
-
-## prime or no prime
-
-Write a function that as input a integer N return true if N is a prime number
-
-Write a function take into as input  an array and return the position of all the prime numbers in an array
-
 
 
 ## Determine if two rectangles intersect.
