@@ -61,8 +61,8 @@ try to be efficient.
 const values = [1, 2, 3, 4, 5];
 for (var i = 0; i < 5; i++) {
   setInterval(() => {
-		print('i is ' + i + 'Of value => ' + values[i]);
-  }, 1000)
+		print('i is ' + i + ' Of value => ' + values[i]);
+  }, 1000);
 }
 ```
 
