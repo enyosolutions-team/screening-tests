@@ -3,7 +3,7 @@ https://jsfiddle.net/enyosolutions/74mnx9zw/3/
 
 ## separate numbers
 
-Write a function that take as input an array of numbers and print out and return two sorted arrays, one of even numbers and another one of odd numbers. sort descending order. Try to make the function cost efficient.
+Write a function that take as input an array of numbers AND print out AND return two sorted arrays, one of even numbers and another one of odd numbers. sort descending order. Try to make the function cost efficient.
 
 > Extras points if you keep the complexity at O(2n)
 
