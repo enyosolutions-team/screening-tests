@@ -55,13 +55,13 @@ Write a function that as input a string S return true if S is an international p
 Write a function that determines if a string starts with an upper-case letter A-Z.
 try to be efficient.
 
-## What does this function prints ?
+## What does this function do ?
 
 ```
 const values = [1, 2, 3, 4, 5];
 for (var i = 0; i < 5; i++) {
   setTimeout(() => {
-		print('i is ' + i + ', it\'s value is => ' + values[i]);
+		console.log('i is ' + i + ', it\'s value is => ' + values[i]);
   }, 1000);
 }
 ```
