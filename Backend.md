@@ -9,7 +9,7 @@ We have a client that want to build a **SaaS** to offer a service to help compan
 - Import data from linked In or Viadeo
 - Candidates management
 - Spontaneous candidates (candidate not coming from job postings)
-- Interviews management (multiple inteviews with various people in the company
+- Interviews management (multiple inteviews with various people in the company)
 - integrated communication with the candidates via emails.
 - Integrated calendar that can be synched with externals calendars.
 - Automated communication to the candidates when the process is advancing or is terminated.
