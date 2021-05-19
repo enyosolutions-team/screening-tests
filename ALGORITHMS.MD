@@ -23,7 +23,7 @@ Write a function that take as input an array of numbers , separate them into two
 The function must return AND print an object of the form `{odd: array, even: array}`.
 
 
-> Extras points if you keep the complexity at O(2n)
+> Extras points if you keep the complexity at O(n^2+1)
 
 
 ## geo coordinates
