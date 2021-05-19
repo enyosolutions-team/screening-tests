@@ -18,8 +18,9 @@ Write a function take into as input  an array and return the position of all the
 
 ## separate numbers
 
-Write a function that take as input an array of numbers , separate them into two sorted arrays, one of even numbers and another one of odd numbers. 
-Then function then return AND print an object the form `{odd: array, even: array}`.
+Write a function that take as input an array of numbers , separate them into two sorted arrays: one of even numbers and another one of odd numbers. 
+
+The function must return AND print an object the form `{odd: array, even: array}`.
 
 
 > Extras points if you keep the complexity at O(2n)
