@@ -78,7 +78,10 @@ For example:
                   
  persistence(4) === 0 // because 4 is already a one-digit number
  
-
+## Comment faire un middleware 
+- Faire un middle ware qui va logger toutes les requetes d'apis qui passsent sur le serveur: 
+- Stocker ces infos dans la bdd( vous pouvez écrire du pseudo code sous format).
+- 
 ## Discussion :
 
 How do i build a SaaS (one app with compagnies(team) using the it without having anytihng to with each other.. What are the important considerations in terms of : 
