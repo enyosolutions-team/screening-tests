@@ -1,15 +1,12 @@
 https://jsfiddle.net/enyosolutions/74mnx9zw/3/
 
+There set of exercies are simple functions exercises. Try to make the functions cost efficient. You have 5min per question.
 
-## separate numbers
 
-Write a function that take as input an array of numbers AND print out AND return two sorted arrays, one of even numbers and another one of odd numbers. sort descending order. Try to make the function cost efficient.
-
-> Extras points if you keep the complexity at O(2n)
 
 ## sort me plz
 
-Write a sort function  to numbers in descending order.
+Write a sort function to sort an array of numbers in descending order.
 
 
 ## prime or no prime
@@ -18,6 +15,14 @@ Write a function that as input a integer N return true if N is a prime number
 
 Write a function take into as input  an array and return the position of all the prime numbers in an array
 
+
+## separate numbers
+
+Write a function that take as input an array of numbers , separate them into two sorted arrays, one of even numbers and another one of odd numbers. 
+Then function then return AND print an object the form `{odd: array, even: array}`.
+
+
+> Extras points if you keep the complexity at O(2n)
 
 
 ## geo coordinates
