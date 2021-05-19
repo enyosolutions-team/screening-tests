@@ -20,7 +20,7 @@ Write a function take into as input  an array and return the position of all the
 
 Write a function that take as input an array of numbers , separate them into two sorted arrays: one of even numbers and another one of odd numbers. 
 
-The function must return AND print an object the form `{odd: array, even: array}`.
+The function must return AND print an object of the form `{odd: array, even: array}`.
 
 
 > Extras points if you keep the complexity at O(2n)
