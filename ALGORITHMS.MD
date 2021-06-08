@@ -6,7 +6,7 @@ There set of exercies are simple functions exercises. Try to make the functions 
 
 ## sort me plz
 
-Write a sort function to sort an array of numbers in descending order.
+Write a sort function to sort an array of numbers in ascending order.
 
 
 ## prime or no prime
@@ -18,7 +18,7 @@ Write a function take into as input  an array and return the position of all the
 
 ## separate numbers
 
-Write a function that take as input an array of numbers , separate them into two sorted arrays: one of even numbers and another one of odd numbers. 
+Write a function that take as input an array of numbers , separate them into two arrays: one of even numbers and another one of odd numbers. Arrays must sorted descending.
 
 The function must return AND print an object of the form `{odd: array, even: array}`.
 
@@ -71,6 +71,7 @@ for (var i = 0; i < 5; i++) {
   }, 1000);
 }
 ```
+
 ## persistence
 Write a function, persistence, that takes in a positive parameter num and returns its multiplicative persistence, which is the number of times you must multiply the digits in num until you reach a single digit.
 
@@ -83,6 +84,10 @@ For example:
                         // 1*2*6 = 12, and finally 1*2 = 2
                   
  persistence(4) === 0 // because 4 is already a one-digit number
+ 
+
+## async load all
+we have an array containing a list of filenames ith their full path. write a function that Asynchronously loads all the data of each  file and returns it in an array.
  
 ## Comment faire un middleware 
 - Faire un middle ware qui va logger toutes les requetes d'apis qui passsent sur le serveur: 
