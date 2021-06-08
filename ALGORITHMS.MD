@@ -88,6 +88,8 @@ For example:
 
 ## async load all
 we have an array containing a list of filenames ith their full path. write a function that Asynchronously loads all the data of each  file and returns it in an array.
+
+`loadFile(sourceList: string[]) => Promise<string[]>`
  
 ## Comment faire un middleware 
 - Faire un middle ware qui va logger toutes les requetes d'apis qui passsent sur le serveur: 
