@@ -91,10 +91,11 @@ we have an array containing a list of filenames ith their full path. write a fun
 
 `loadFile(sourceList: string[]) => Promise<string[]>`
  
-## Comment faire un middleware 
+## Comment faire un middleware express
 - Faire un middle ware qui va logger toutes les requetes d'apis qui passsent sur le serveur: 
-- Stocker ces infos dans la bdd( vous pouvez écrire du pseudo code sous format).
-- 
+- On souhaite faire des statistiques sur le nombre de requete par endpoint.
+
+
 ## Discussion :
 
 How do i build a SaaS (one app with compagnies(team) using the it without having anytihng to with each other.. What are the important considerations in terms of : 
