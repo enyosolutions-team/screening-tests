@@ -1,4 +1,4 @@
-https://jsfiddle.net/enyosolutions/74mnx9zw/3/
+https://jsfiddle.net/enyosolutions/74mnx9zw/28/
 
 There set of exercies are simple functions exercises. Try to make the functions cost efficient. You have 5min per question.
 
